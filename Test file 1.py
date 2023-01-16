@@ -1,0 +1,1 @@
+print('Test file for GIT initial repo commit')
