@@ -2,7 +2,7 @@
 # Task 1
 
 str1 = "Python is the best programming language in the world"
-print(str1[6:-7], "\n")
+print(str1[5:-7], "\n")
 
 #===================
 # Task 2
